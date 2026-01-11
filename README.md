@@ -2,18 +2,8 @@
 
 # Setup Flutter - Sales Activity Asuransi
 
-## 1. Install Flutter
+## 1. Clone Repository
 
-### Windows:
-```bash
-# Download Flutter SDK dari https://flutter.dev/docs/get-started/install/windows
-# Extract ke C:\src\flutter
-# Tambahkan ke PATH: C:\src\flutter\bin
-
-flutter doctor
-```
-
-### macOS/Linux:
 ```bash
 # Clone repository
 git https://github.com/aytidasaputra/sales_insurance_activity.git 
