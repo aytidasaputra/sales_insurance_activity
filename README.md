@@ -327,14 +327,11 @@ flutter build appbundle --release
 4. **Format Code**: `flutter format .`
 5. **Analyze Code**: `flutter analyze`
 
-## Next Steps
+## Running 
 
-1. Setup Firebase (optional untuk backend)
-2. Implementasi authentication
-3. Desain UI/UX untuk setiap screen
-4. Integrasi dengan API backend
-5. Implementasi local database dengan SQLite
-6. Testing dan debugging
+1. flutter devices
+2. flutter emulators (ambil id nya)
+3. flutter emulators --launch (Pixel_Fold_API_35)
 
 ---
 
